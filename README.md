@@ -1,2 +1,4 @@
 # hello-world
-Sample "Hello World" repository
+"Hello GitHub" repository
+
+I'm just learning how to use GitHub.
